@@ -1,6 +1,7 @@
 {
   "name": "base44-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "type": "module",
   "description": "MCP server for Base44 - manage app entities, functions, integrations, and auth via Claude",
   "main": "dist/index.js",
   "scripts": {
